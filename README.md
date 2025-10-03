@@ -16,9 +16,9 @@
 ![Sharique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShariqueTanzeem&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0,2b5876,2e8b57)
 
 🔗 **Connect with Me:**  
-- [LinkedIn](https://www.linkedin.com/in/shariquetanzeem)  
+- [LinkedIn] https://www.linkedin.com/in/sharique-tanzeem-b9b34b279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - [Portfolio](https://shariquetanzeem.github.io) (Coming Soon!)  
-- [Email](mailto:shariquetanzeem@example.com)
+- [Email](mailto:shariquetanzeem81@gmail.com)
 
 ---
 
